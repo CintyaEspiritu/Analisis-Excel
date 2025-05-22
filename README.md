@@ -1,10 +1,10 @@
-#Analisis de ventas en la tienda Orange 
+# Analisis de ventas en la tienda Orange 
 
-##Sucursal colima 
+## Sucursal colima 
 
 Este conjunto contiene información de las ventas que se han tenido en el ejercicio en curso 
 
-##Resultados finales
+## Resultados finales
 
 1. Aumento estacional de bisuteria
 
